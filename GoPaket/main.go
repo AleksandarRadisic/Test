@@ -1,0 +1,5 @@
+package GoPaket
+
+func main() {
+
+}
